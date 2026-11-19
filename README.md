@@ -9,12 +9,14 @@ Este projeto faz parte da Formação Flutter da DIO, com o objetivo de aprender 
 Durante o desenvolvimento, são explorados conceitos fundamentais da criação de interfaces, estruturação de widgets, estilização e interação com o usuário.
 
 🚀 Tecnologias Utilizadas
+
 Flutter: Framework para desenvolvimento multiplataforma.
 Dart: Linguagem de programação utilizada pelo Flutter.
 Visual Studio Code: Ambiente de desenvolvimento.
 Git e GitHub: Controle de versão e hospedagem do código-fonte.
 
 🎯 Funcionalidades e Aprendizados
+
 Criação de interfaces utilizando Widgets.
 Utilização dos componentes Text, Column e Row.
 Personalização de fontes, cores e tamanhos de textos.
@@ -25,6 +27,7 @@ Execução e testes da aplicação no navegador Google Chrome.
 Utilização de Hot Reload durante o desenvolvimento.
 
 🖥️ Executando o Projeto
+
 Pré-requisitos
 Flutter SDK instalado.
 Dart SDK.
